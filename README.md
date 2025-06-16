@@ -83,7 +83,7 @@ The application features a stunning interface with:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nepali-unicode.git
+git clone https://github.com/rabinsxp/nepali-unicode.git
 cd nepali-unicode
 
 # Install dependencies
