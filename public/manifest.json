@@ -1,0 +1,22 @@
+{
+  "name": "Nepali Unicode Converter",
+  "short_name": "NepaliUnicode",
+  "description": "Modern Nepali Unicode Converter - Convert Romanized Nepali text to Unicode Nepali script",
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/nepal-flag.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "utilities", "productivity"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
